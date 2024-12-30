@@ -1,0 +1,9 @@
+[package]
+name = "Util"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sysinfo = "0.24.0"
+dotenv = "0.15"
+lazy_static = "1.4"
